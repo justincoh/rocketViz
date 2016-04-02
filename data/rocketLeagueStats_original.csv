@@ -1,0 +1,43 @@
+Tamoketh,Rocket League - Vehicle Stats,,,,,,,,,,,,,,,,,,,,,,,,
+^ Author ^,Overall,,,Maneuvering,,,,,Hit Box [4],,,,,,,,,,,,,,,,
+Vehicles,RANKINGS [5],Maneuvering [1],Hit Box,Turning Radius,Boost Radius,Power Slide,Boost Power Slide,,Height,Width,Length,Lift,,,,,,,,,,,,,
+,# from 1 to 16,Lower # = Better,Higher # = Bigger Hitbox,Lower # = Tighter turn,Lower # = Tighter turn,Lower # = Earlier 180,Lower # = Earlier 180,,Higher # = Higher Hitbox,Higher # = Wider Hitbox,Higher # = Longer Hitbox,Higher # = More Ball Lift,,Votes,,,,,,,,,,,TOTALS
+Backfire,16,55,15,16,15,12,12,,9,6,,,,0,,,,,,,,,,,45
+Breakout,2,12,17,3,1,6,2,,6,11,,,,1,,,,,,,,,,,90
+DeLorean,11,41,,13,10,8,10,,,,,,,2,,,,,,,,,,,62
+Dominus,3,17,17,4,3,7,3,,8,9,,,,0,,,,,,,,,,,85
+Gizmo,9,37,27,15,8,9,5,,14,13,,,,1,,,,,,,,,,,75
+Grog,,,,,,,,,,,,,,,,,,,,,,,,,
+Hotshot,1,6,25,2,1,2,1,,10,15,,,,0,,,,,,,,,,,104
+Merc,12,56,24,8,16,16,16,,15,9,,,,3,,,,,,,,,,,53
+Octane,3,18,18,6,5,3,4,,13,5,,,,0,,,,,,,,,,,85
+Paladin,15,50,13,11,13,13,13,,4,9,,,,0,,,,,,,,,,,48
+Ripper,,,,,,,,,,,,,,,,,,,,,,,,,
+Road Hog,5,27,24,10,5,5,7,,11,13,,,,0,,,,,,,,,,,82
+Scarab,8,27,,5,10,4,8,,,,,,,0,,,,,,,,,,,76
+Sweet Tooth,7,28,20,1,5,11,11,,16,4,,,,0,,,,,,,,,,,77
+Takumi,13,45,12,9,12,10,14,,5,7,,,,0,,,,,,,,,,,52
+Venom,14,56,22,12,14,15,15,,7,15,,,,0,,,,,,,,,,,51
+X-Devil,10,43,25,14,9,14,6,,12,13,,,,0,,,,,,,,,,,67
+Zippy,6,24,,7,7,1,9,,,,,,,1,,,,,,,,,,,79
+,,,,,,,,,,,,,,,,,,,,,,,,,
+DISCLAIMER:,"The overall sections are just adding the values in the other categories together. The stats don't mean one vehicle is strictly better than the other, as the look/feel of the vehicle matters as well.",,,,,,,,,,,,,,,,,,,,,,,,
+,Check out Reelly Plays's channel on YouTube. We discuss our results and testing methods are his testing helps fill in this spreadsheet as well. :),,,,,,,,,,,,,,,,,,,,,,,,
+LINKS:,YouTube,Psyonic forums,Steam profile,Reddit profile,Steam profile,Twitch,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,THE SAME / NO DIFFERENCE,,,,,,,,,,,,,,,,,,,,,,,,
+,"""So,"" you might ask, ""what is the same or what makes no difference?"" Well, below is a list in no particular order of everything that's the same across all vehicles/options.",,,,,,,,,,,,,,,,,,,,,,,,
+Items,All Decals,All Colors,All Paint Finishes,All Wheels,All Boosters,All Hats,All Antennas,,,,,,,,,,,,,,,,,,
+Performance,Acceleration,Unboosted Speed,Super Sonic Speed,Jump Height,Demolitions,Air Turn Y/Z,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,NOTES,,,,,,,,,,,,,,,,,,,,,,,
+[1],"Because of not having a fully accurate test at the moment, the Grip stat skews the results for the Sweet Tooth and Merc, so I've given them a value of 7 in that stat for the overall calculations.",,,,,,,,,,,,,,,,,,,,,,,,
+[2],Curtesy of ONlocke's testing (https://redd.it/3lpx2d) up to the Supersonic Fury DLC. My own testing confirms his results and I've done my own from the Revenge of the Battles Cars DLC and onwards.,,,,,,,,,,,,,,,,,,,,,,,,
+[3],"It was discovered that not all vehicles slow down to a stop the same after doing a power slide or freely rolling, so I added another column for it.",,,,,,,,,,,,,,,,,,,,,,,,
+[4],I copied the old hit box values from my previous testing to have something as a reference for people. I'll be doing better testing for this in the future.,,,,,,,,,,,,,,,,,,,,,,,,
+[5],"This is just adding the overall totals for the Maneuvering and the Hit Box together. As testing for the Hit Box isn't completed yet, I added an average ""Hit Box"" value of 18 to the DeLorean, Scarab and Zippy for now.",,,,,,,,,,,,,,,,,,,,,,,,
+[6],,,,,,,,,,,,,,,,,,,,,,,,,
+[7],,,,,,,,,,,,,,,,,,,,,,,,,
+[8],,,,,,,,,,,,,,,,,,,,,,,,,
+[9],,,,,,,,,,,,,,,,,,,,,,,,,
+[10],,,,,,,,,,,,,,,,,,,,,,,,,
